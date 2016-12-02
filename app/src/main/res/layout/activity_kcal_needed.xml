@@ -1,0 +1,119 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+
+
+<TextView
+    android:id="@+id/t1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Enter your Height"
+    android:layout_above="@+id/t4"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"/>
+<EditText
+    android:id="@+id/cm"
+    android:inputType="numberDecimal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignTop="@+id/t1"
+    android:layout_toRightOf="@+id/age"
+    android:layout_toEndOf="@+id/age"/>
+<TextView
+    android:id="@+id/t2"
+    android:text="cm"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignTop="@+id/t1"
+    android:layout_centerHorizontal="true"/>
+
+
+<TextView
+    android:id="@+id/t4"
+    android:text="Enter your weight"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/age"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"/>
+<EditText
+    android:id="@+id/weight"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_above="@+id/t6"
+    android:inputType="numberDecimal"
+    android:layout_toLeftOf="@+id/cm"
+    android:layout_toStartOf="@+id/cm"/>
+
+<TextView
+    android:id="@+id/t5"
+    android:text="Enter your Age"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignBottom="@+id/cm"
+    android:layout_toRightOf="@+id/t6"
+    android:layout_toEndOf="@+id/t6"/>
+<EditText
+    android:id="@+id/age"
+    android:layout_width="match_parent"
+    android:inputType="number"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_toRightOf="@+id/t6"
+    android:layout_toEndOf="@+id/t6"/>
+
+<TextView
+    android:id="@+id/t6"
+    android:text="Choose your gender"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignBaseline="@+id/male"
+    android:layout_alignBottom="@+id/male"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"/>
+
+<RadioGroup
+    android:id="@+id/rgrp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+
+
+    <RadioButton
+        android:id="@+id/male"
+        android:text="Male"
+        android:checked="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/result"
+        android:layout_toEndOf="@+id/result"/>
+
+    <RadioButton
+        android:id="@+id/female"
+        android:text="Female"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/calculate"
+        android:layout_alignBottom="@+id/calculate"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+</RadioGroup>
+<TextView
+    android:id="@+id/result"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+<Button
+    android:id="@+id/calculate"
+    android:text="Calculate"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/linearLayout"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"/>
+
+
+</LinearLayout>

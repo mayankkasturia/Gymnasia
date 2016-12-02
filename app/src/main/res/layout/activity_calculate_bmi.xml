@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:orientation="vertical" android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <TextView android:text="BMI Calculator" android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center_horizontal"
+              android:id="@+id/bmitextView2"
+              android:textStyle="bold"
+              android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Body Mass Index or BMI is a ratio of a person's weight to height. It can be used to measure fitness as a proxy for body fat percentage calculations."
+        android:id="@+id/bmitextView"
+        android:layout_below="@+id/bmitextView2"
+        android:layout_alignParentStart="true"
+        android:textStyle="italic"
+        android:textSize="14dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Enter Weight"
+        android:id="@+id/bmitextView3"
+        android:textSize="18dp"
+        android:layout_below="@+id/bmiradioGroup" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Enter Height"
+        android:id="@+id/bmitextView4"
+        android:layout_below="@+id/bmitextView3"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="40dp"
+        android:textSize="18dp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_below="@+id/bmitextView"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/bmitextView"
+        android:weightSum="1"
+        android:id="@+id/bmiradioGroup">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pounds(Lbs), Inches(In)"
+            android:id="@+id/bmiradioButton2"
+            android:checked="true" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Kilograms(Kg),meters(m)"
+            android:id="@+id/bmiradioButton"
+            android:checked="false" />
+
+    </RadioGroup>
+
+    <EditText
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:inputType="number|numberDecimal"
+        android:id="@+id/bmieditText"
+        android:gravity="center"
+        android:layout_above="@+id/bmitextView4"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:inputType="number|numberDecimal"
+        android:id="@+id/bmieditText2"
+        android:gravity="center"
+        android:layout_alignTop="@+id/bmitextView4"
+        android:layout_alignStart="@+id/bmieditText" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculate"
+        android:id="@+id/bmibutton"
+        android:layout_below="@+id/bmieditText2"
+        android:layout_alignEnd="@+id/bmieditText2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your BMI result"
+        android:id="@+id/bmitextView5"
+        android:layout_marginTop="39dp"
+        android:textSize="18dp"
+        android:layout_below="@+id/bmibutton"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bmitextView6"
+        android:layout_below="@+id/bmitextView5"
+        android:layout_marginTop="23dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/bmiradioGroup"
+        android:layout_alignParentBottom="true"
+        android:hint="Notes"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:background="#f7ec74"
+        android:textAlignment="textStart"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/bmitextView7"
+        android:layout_above="@+id/bmitextView6"
+        android:gravity="center"
+        android:inputType="number"
+        android:layout_alignEnd="@+id/bmitextView6"
+        android:layout_alignStart="@+id/bmibutton" />
+
+</RelativeLayout>

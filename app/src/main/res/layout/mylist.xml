@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:weightSum="1"
+    >
+
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/chest_icon"
+        android:padding="5dp"
+        android:src="@drawable/g1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"/>
+
+
+    <TextView
+        android:id="@+id/chest_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:layout_marginStart="11dp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/chest_icon"
+        android:layout_marginTop="9dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:id="@+id/chest_small_item"
+        android:layout_below="@+id/chest_item"
+        android:layout_alignStart="@+id/chest_item"/>
+
+
+</RelativeLayout>

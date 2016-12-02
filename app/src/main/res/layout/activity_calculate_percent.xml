@@ -1,0 +1,143 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:orientation="vertical" android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <TextView android:text="BAI Calculator" android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center_horizontal"
+              android:id="@+id/baitextView2"
+              android:textStyle="bold"
+              android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Body Adiposity Index or BAI is a method for measuring percentage body fat in humans. Unlike Body Mass Index,it is calculated using the size of a person&apos;s waist compared to his/ her height."
+        android:id="@+id/baitextView"
+        android:layout_below="@+id/baitextView2"
+        android:layout_alignParentStart="true"
+        android:textStyle="italic"
+        android:textSize="14dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="8dp"
+        android:height="65dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Enter waist diameter"
+        android:id="@+id/baitextView3"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:layout_below="@+id/bairadioGroup"
+        android:layout_alignStart="@+id/baitextView6"
+        android:layout_marginLeft="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Enter Height"
+        android:id="@+id/baitextView4"
+        android:layout_below="@+id/baitextView3"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="40dp"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:layout_alignEnd="@+id/baitextView3" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_below="@+id/baitextView"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/baitextView"
+        android:weightSum="1"
+        android:id="@+id/bairadioGroup">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Length in Inches(In)"
+            android:id="@+id/bairadioButton2"
+            android:checked="true" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Length in meters(m)"
+            android:id="@+id/bairadioButton"
+            android:checked="false" />
+
+    </RadioGroup>
+
+    <EditText
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:inputType="number|numberDecimal"
+        android:id="@+id/baieditText"
+        android:gravity="center"
+        android:layout_alignTop="@+id/baitextView3"
+        android:layout_alignEnd="@+id/baitextView6"
+        android:layout_marginEnd="65dp" />
+
+    <EditText
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:inputType="number|numberDecimal"
+        android:id="@+id/baieditText2"
+        android:gravity="center"
+        android:layout_alignTop="@+id/baitextView4"
+        android:layout_alignStart="@+id/baieditText" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculate"
+        android:id="@+id/baibutton"
+        android:layout_below="@+id/baieditText2"
+        android:layout_alignEnd="@+id/baieditText2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your BAI result"
+        android:id="@+id/baitextView5"
+        android:layout_marginTop="39dp"
+        android:textSize="18dp"
+        android:layout_below="@+id/baibutton"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/baitextView6"
+        android:layout_below="@+id/baitextView5"
+        android:layout_marginTop="23dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/bairadioGroup"
+        android:layout_alignParentBottom="true"
+        android:hint="Notes"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:background="#f7ec74"
+        android:textAlignment="textStart"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:text="Healthy index is between 10% and 22% \n " />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/baitextView7"
+        android:layout_above="@+id/baitextView6"
+        android:gravity="center"
+        android:inputType="number"
+        android:layout_alignEnd="@+id/baitextView6"
+        android:layout_alignStart="@+id/baibutton" />
+
+</RelativeLayout>

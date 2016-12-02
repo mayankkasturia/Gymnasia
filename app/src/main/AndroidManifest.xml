@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.csulb.edu.gymnasia4" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Exercise_Guide"
+            android:label="@string/title_activity_exercise__guide" >
+        </activity>
+        <activity
+            android:name=".KCalNeeded"
+            android:label="@string/title_activity_kcal_needed" >
+        </activity>
+        <activity
+            android:name=".ExBuildingDiet"
+            android:label="@string/title_activity_ex_building_diet" >
+        </activity>
+        <activity
+            android:name=".CalculateBmi"
+            android:label="@string/title_activity_calculate_bmi" >
+        </activity>
+        <activity
+            android:name=".CalculatePercent"
+            android:label="@string/title_activity_calculate_percent" >
+        </activity>
+        <activity
+            android:name=".WomenWorkout"
+            android:label="@string/title_activity_women_workout" >
+        </activity>
+        <activity
+            android:name=".WomenDescription"
+            android:label="@string/title_activity_women_description" >
+        </activity>
+        <activity
+            android:name=".LeanGainDiet"
+            android:label="@string/title_activity_lean_gain_diet" >
+        </activity>
+        <activity
+            android:name=".Suplements"
+            android:label="@string/title_activity_suplements" >
+        </activity>
+        <activity
+            android:name=".exercise.ChestDescription"
+            android:label="@string/title_activity_chest_description" >
+        </activity>
+        <activity
+            android:name=".exercise.ShoulderDescription"
+            android:label="@string/title_activity_shoulder_description" >
+        </activity>
+        <activity
+            android:name=".exercise.BackDescription"
+            android:label="@string/title_activity_back_description" >
+        </activity>
+        <activity
+            android:name=".exercise.TricepsDescription"
+            android:label="@string/title_activity_triceps_description" >
+        </activity>
+        <activity
+            android:name=".BicepsDescription"
+            android:label="@string/title_activity_biceps_description" >
+        </activity>
+        <activity
+            android:name=".exercise.AbsDescription"
+            android:label="@string/title_activity_abs_description" >
+        </activity>
+        <activity
+            android:name=".exercise.LegDescription"
+            android:label="@string/title_activity_leg_description" >
+        </activity>
+        <activity
+            android:name=".MenGain"
+            android:label="@string/title_activity_men_gain" >
+        </activity>
+        <activity
+            android:name=".MenGainDescription"
+            android:label="@string/title_activity_men_gain_description" >
+        </activity>
+        <activity
+            android:name=".MenLean"
+            android:label="@string/title_activity_men_lean" >
+        </activity>
+        <activity
+            android:name=".MenLeandescription"
+            android:label="@string/title_activity_men_leandescription" >
+        </activity>
+        <activity
+            android:name=".Menleandescription"
+            android:label="@string/title_activity_menleandescription" >
+        </activity>
+    </application>
+
+</manifest>

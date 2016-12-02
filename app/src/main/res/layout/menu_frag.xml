@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content">
+
+<LinearLayout
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="horizontal">
+
+    <ImageButton
+        android:layout_width="77dp"
+        android:layout_height="76dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:id="@+id/imageButton2"
+        android:src="@drawable/g1"/>
+
+    <ImageButton
+        android:layout_width="77dp"
+        android:layout_height="76dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:id="@+id/imageButton3"
+        android:src="@drawable/g9"/>
+
+    <ImageButton
+        android:layout_width="77dp"
+        android:layout_height="76dp"
+        android:id="@+id/imageButton4"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/g2"/>
+
+    <ImageButton
+        android:layout_width="77dp"
+        android:layout_height="76dp"
+        android:id="@+id/imageButton5"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/g4"/>
+
+    <ImageButton
+        android:layout_width="77dp"
+        android:layout_height="76dp"
+        android:id="@+id/imageButton6"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/g7"/>
+
+    <ImageButton
+        android:layout_width="77dp"
+        android:layout_height="76dp"
+        android:id="@+id/imageButton7"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/g5"/>
+
+    <ImageButton
+        android:layout_width="77dp"
+        android:layout_height="76dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:id="@+id/imageButton8"
+        android:src="@drawable/g3"/>
+
+</LinearLayout></HorizontalScrollView>

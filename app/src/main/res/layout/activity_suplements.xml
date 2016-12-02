@@ -1,0 +1,111 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+    <RelativeLayout      android:layout_width="match_parent"
+                         android:layout_height="match_parent"
+                         android:paddingLeft="@dimen/activity_horizontal_margin"
+                         android:paddingRight="@dimen/activity_horizontal_margin"
+                         android:paddingTop="@dimen/activity_vertical_margin"
+                         android:paddingBottom="@dimen/activity_vertical_margin"
+                         tools:context=".MainActivity">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:isScrollContainer="true"
+
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/supplement"
+                    android:background="@drawable/bachgrd"
+                    android:textSize="15sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:text="Why Proteins"
+                    android:textColor="@color/actionbar_background"
+                    android:textStyle="bold|italic"
+                    android:layout_width="wrap_content"
+                    android:textSize="25sp"
+                    android:layout_height="wrap_content"/>
+
+
+                <TextView
+                    android:id="@+id/protien"
+                    android:padding="2dp"
+                    android:background="@drawable/bachgrd"
+                    android:textSize="15sp"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:textSize="25sp"
+                    android:textStyle="bold|italic"
+                    android:text="Multivitamins"
+                    android:textColor="@color/actionbar_background"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+                <TextView
+                    android:id="@+id/multivitamin"
+
+                    android:background="@drawable/bachgrd"
+                    android:textSize="15sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:textSize="25sp"
+                    android:textStyle="bold|italic"
+                    android:text="Fat Burners"
+                    android:textColor="@color/actionbar_background"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:id="@+id/filler"
+
+                    android:background="@drawable/bachgrd"
+                    android:textSize="15sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:textSize="25sp"
+                    android:textStyle="bold|italic"
+                    android:text="Creatine"
+                    android:textColor="@color/actionbar_background"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+                <TextView
+                    android:id="@+id/creatine"
+
+                    android:background="@drawable/bachgrd"
+                    android:textSize="15sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:textSize="25sp"
+                    android:textStyle="bold|italic"
+                    android:text="Glucosamine"
+                    android:textColor="@color/actionbar_background"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:id="@+id/glucosamine"
+
+                    android:background="@drawable/bachgrd"
+                    android:textSize="15sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+</ScrollView>

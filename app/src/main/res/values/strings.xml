@@ -1,0 +1,468 @@
+<resources>
+    <string name="app_name">Gymnasia</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <color name="actionbar_background">#FFD801</color>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main1">Main1Activity</string>
+     <string name="femshoulders_desc"><p>\n\nHere are a set of exercises to strengthen yor shoulders:\n\n
+1.Seated dumbbell press.\n
+2.Front dumbbell raise.\n
+3.Front plate raise.\n
+4.Side lateral raise.\n
+5.Seated bent-over rear deltiod raise.\n
+6.Bent over low-pulley side raise.\n</p></string>
+
+    <string name="fembiandtri_desc"><p>These workouts are focus on your biceps and triceps.\n\n
+
+    Biceps workout:\n
+    1.Hammer curl\n
+    2.Barbell curl\n
+    3.Incline curl\n
+    4.Cable curl\n\n\n
+
+    Triceps workout:\n\n
+    1.Overhead dumbbell extension\n
+    2.Skullcrusher\n
+    3.Cable pull-down\n
+    4.Triceps pushdown\n\n
+    Add push-ups to your routine to make it  power workout!!\n</p></string>
+
+    <string name="femleg_desc"><p>These workouts tone your legs.\n\n
+    1. Lying leg curl\n
+    2.Side step with band\n
+    3.Reverse lunge\n
+    4.Reverse hack squat\n
+    5.Barbell squat\n
+    6.Hip thrust\n
+    7.Squat machine\n </p></string>
+    <string name="femabs_desc"><p>These are sure to get you killer abs!!\n\n
+    1.Kettlebell Russian twist\n
+    2.Kettlebell windmill\n
+    3.Cable reverse crunch\n
+    4.Cable rope crunch\n
+    5.TRX pendulum\n
+    6.TRX pike\n
+    7.Rope climb crunch\n
+    8.Plank circle\n</p></string>
+    <string name="femcardio_desc"><p>Time to regulate heart rate and burn those extra pounds.\n\n
+    1.Treadmill/ free running\n
+    2.Elliptical\n
+    3.Cycling\n
+    4.Kickboxing\n
+    5.Stairs\n
+    6.Swimming\n
+    7.Rope jumping\n</p></string>
+    <string name="fembackwork_desc"><p>Its time to get your back in shape.\n\n
+    1.Wide grip lat pulldown\n
+    2.One arm dumbbell row\n
+    3.Bent over barbell row\n
+    4.Seated cable row\n
+    5.Underhand cable pulldown\n
+    6.Chin-up\n
+    7.Hyperextensions on stability ball\n</p></string>
+
+    <string name="benchpress"><p><B>Information</B>\n\nThe bench press is an upper body strength training exercise that consists of pressing a weight upwards from a supine position.
+        The exercise works the pectoralis major as well as supporting chest, arm, and shoulder muscles such as the anterior deltoids, serratus anterior, coracobrachialis, scapulae fixers,
+        trapezii, and the triceps. A barbell is generally used to hold the weight, but a pair of dumbbells can also be used.\n\n
+        <B>Movement</B>\n\nThe person performing the exercise lies on their back with a weight grasped in both hands. They push the weight upwards until their arms are extended, not allowing the elbows to lock. They then lower the weight to chest level. This is one repetition (rep).\n\n
+        <B>Powerlifting</B>\n\nTake posture with body weight resting on buttocks and upper traps whilst driving feet into the floor. Movement requires the weight to be taken at full arms, lowered to upper torso, paused, and then lifted to starting position.\n\n
+    </p></string>
+
+    <string name="inclinepress"><p><B>Information</B>\n\nThe incline press is an upper body strength training exercise that consists of pressing a weight upwards from a supine position.
+        The exercise works the pectoralis major as well as supporting chest, arm, and shoulder muscles such as the anterior deltoids, serratus anterior, coracobrachialis, scapulae fixers, trapezii, and the triceps.
+        A barbell is generally used to hold the weight, but a pair of dumbbells can also be used.\n\n
+        <B>Movement</B>\n\n1) Lie back on an incline bench with a dumbbell in each hand atop your thighs. The palms of your hands will be facing each other.\n
+2)Then, using your thighs to help push the dumbbells up, lift the dumbbells one at a time so that you can hold them at shoulder width.\n
+3)Once you have the dumbbells raised to shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.\n
+4)Be sure to keep full control of the dumbbells at all times. Then breathe out and push the dumbbells up with your chest.\n
+5)Lock your arms at the top, hold for a second, and then start slowly lowering the weight. Tip Ideally, lowering the weights should take about twice as long as raising them.\n
+6)Repeat the movement for the prescribed amount of repetitions.\n
+7)When you are done, place the dumbbells back on your thighs and then on the floor. This is the safest manner to release the dumbbells.
+    </p></string>
+
+    <string name="declinepress"><p><B>Information</B>\n\n
+    The decline press is an upper body strength training exercise that consists of pressing a weight upwards from a supine position.
+        The exercise works the pectoralis major as well as supporting chest, arm, and shoulder muscles such as the anterior deltoids, serratus anterior, coracobrachialis, scapulae fixers, trapezii, and the triceps.
+        A barbell is generally used to hold the weight, but a pair of dumbbells can also be used.\n\n
+    <B>Movement</B>\n
+   1)Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.\n
+2)Once you are laying down, move the dumbbells in front of you at shoulder width.\n
+3)Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.\n
+4)Bring down the weights slowly to your side as you breathe out. Keep full control of the dumbbells at all times. Tip: Throughout the motion, the forearms should always be perpendicular to the floor.\n
+5)As you breathe out, push the dumbbells up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down
+       slowly. Tip: It should take at least twice as long to go down than to come up.\n
+6)Repeat the movement for the prescribed amount of repetitions of your training program.
+   </p></string>
+
+<string name="pushups"><p><B>Information and Movement</B>\n\n
+    A push-up (or press-up) is a common calisthenics exercise performed in a prone position by raising and lowering the body using the arms. Push-ups exercise the pectoral muscles,
+    triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole. Push-ups are a basic exercise used in civilian
+    athletic training or physical education and commonly in military physical training.
+
+    </p></string>
+<string name="dumbbellflys"><p>
+        <B>Movement</B>\n\n 1) Lie back on an incline bench with a dumbbell in each hand atop your thighs. The palms of your hands will be facing each other.\n
+2)Then, using your thighs to help push the dumbbells up, lift the dumbbells one at a time so that you can hold them at shoulder width.\n
+3)Once you have the dumbbells raised to shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.\n
+4)Be sure to keep full control of the dumbbells at all times. Then breathe out and push the dumbbells up with your chest.\n
+5)Lock your arms at the top, hold for a second, and then start slowly lowering the weight. Tip Ideally, lowering the weights should take about twice as long as raising them.\n
+6)Repeat the movement for the prescribed amount of repetitions.\n
+7)When you are done, place the dumbbells back on your thighs and then on the floor. This is the safest manner to release the dumbbells.
+    </p></string>
+    <string name="dumbbellpullover"><p>
+        <B>Movement</B>\n\n 1) Lie back on an incline bench with a dumbbell in each hand atop your thighs. The palms of your hands will be facing each other.\n
+2)Then, using your thighs to help push the dumbbells up, lift the dumbbells one at a time so that you can hold them at shoulder width.\n
+3)Once you have the dumbbells raised to shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.\n
+4)Be sure to keep full control of the dumbbells at all times. Then breathe out and push the dumbbells up with your chest.\n
+5)Lock your arms at the top, hold for a second, and then start slowly lowering the weight. Tip Ideally, lowering the weights should take about twice as long as raising them.\n
+6)Repeat the movement for the prescribed amount of repetitions.\n
+7)When you are done, place the dumbbells back on your thighs and then on the floor. This is the safest manner to release the dumbbells.
+    </p></string>
+
+    <string name="cablecrossover"><p>
+        <B>Movement</B>\n\n 1) Lie back on an incline bench with a dumbbell in each hand atop your thighs. The palms of your hands will be facing each other.\n
+2)Then, using your thighs to help push the dumbbells up, lift the dumbbells one at a time so that you can hold them at shoulder width.\n
+3)Once you have the dumbbells raised to shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.\n
+4)Be sure to keep full control of the dumbbells at all times. Then breathe out and push the dumbbells up with your chest.\n
+5)Lock your arms at the top, hold for a second, and then start slowly lowering the weight. Tip Ideally, lowering the weights should take about twice as long as raising them.\n
+6)Repeat the movement for the prescribed amount of repetitions.\n
+7)When you are done, place the dumbbells back on your thighs and then on the floor. This is the safest manner to release the dumbbells.
+    </p></string>
+
+    <string name="dumbbellpress"><p>
+        Dumbbell Bench Press Guide. Lie down on a flat bench with a dumbbell in each hand resting on top of your thighs. The palms of your hands will be facing each other. Then, using your thighs to help raise the dumbbells up, lift the dumbbells one at a time so that you can hold them in front of you at shoulder width.
+    </p></string>
+
+    <string name="backpress"><p>
+    Load a barbell with the appropriate weight.Stand with your back straight and a slight bend in your knees. Your feet should be around shoulder width apart.
+Hold the bar with an overhand grip (palms facing forward) with your hands just beyond shoulder width.Push your the bar above your head until your arms are almost fully extended above your head with a slight bend in your elbows.
+    </p></string>
+
+    <string name="latralraises"><p>
+        Stand with a straight torso and the dumbbells by your side at arms length with the palms of the hand facing you. This will be your starting position.
+Lift the dumbbells to your side with a slight bend on the elbow and the hands slightly tilted forward as if pouring water in a glass. Continue to go up until you arms are parallel to the floor. Exhale as you execute this movement and pause for a second at the top. Lower the dumbbells back down slowly to the starting position as you inhale.
+    </p></string>
+
+    <string name="bentoverlateral"><p>
+    1)Stand up straight while holding a dumbbell in each hand and with an incline bench in front of you.\n\n
+2)While keeping your back straight and maintaining the natural arch of your back, lean forward until your forehead touches the bench in front of you. Let the arms hang in front of you perpendicular to the ground. The palms of your hands should be facing each other and your torso should be parallel to the floor.\n\n
+3)This will be your starting position.\n\n
+4)Keeping your torso forward and stationary, and the arms straight with a slight bend at the elbows, lift the dumbbells straight to the side until both arms are parallel to the floor. Exhale as you lift the weights.\n\n
+5)After a one second contraction at the top, slowly lower the dumbbells back to the starting position.\n\n
+6)Repeat the recommended amount of repetitions.\n\n
+    </p></string>
+
+    <string name="frontraise"><p>
+    The front raise is a weight training exercise. This exercise is an isolation exercise which isolates shoulder flexion. It primarily works the anterior deltoid, with assistance from the serratus anterior, biceps brachii and clavicular portions of the pectoralis major.
+    </p></string>
+    <string name="upright"><p>
+    The upright row is a weight training exercise performed by holding a grips with the overhand grip and lifting it straight up to the collarbone. This is a compound exercise that involves the trapezius, the deltoids and the biceps.
+
+    </p></string>
+    <string name="barbell"><p>
+    1)Stand up straight with your feet at shoulder width as you hold a barbell with both hands in front of you using a pronated grip (palms facing the thighs).\n\n
+2)Tip: Your hands should be a little wider than shoulder width apart. You can use wrist wraps for this exercise for a better grip. This will be your starting position.\n\n
+3)Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps.\n\n
+4)Slowly return to the starting position as you breathe in.\n
+5)Repeat for the recommended amount of repetitions.\n
+    </p></string>
+
+    <string name="latpulldowns"><p>
+    1)Set up for the lat pull down by attaching a wide grip bar to the machine, selecting the weight you want to use, and adjusting the thigh pad.\n
+2)While standing, grasp the bar with an overhand grip at wider than shoulder width apart.\n
+3)Holding the bar, sit down on the machine. This should take the weight off the stack.\n
+4)Keeping your back straight, eyes facing forward, and without leaning back, slowly pull the bar down to your upper chest. Do not let the bar touch your chest.\n
+Pause, and slowly lower the weight back to the starting position. Do not let the weight touch the stack.\n
+5)Repeat for desired reps.\n
+    </p></string>
+
+    <string name="onearmdumbbellrow"><p>
+    1)Set up for the one arm dumbbell row by grabbing a flat bench and sitting a dumbbell on the left hand side at one end.\n
+2)Position yourself on the left side of the bench with your right knee and right hand resting on the bench.\n
+3)Using a neutral grip, pick up the dumbbell with your left hand. Pull your shoulder blade back while keeping your arm straight. This is the starting position for the exercise.\n
+4)Slowly pull the dumbbell up as far as possible.\n
+5)Pause and squeeze your shoulder blades together, and then slowly lower the dumbbell back to the starting position.\n
+6)Repeat for desired reps and then repeat for your other side.\n
+    </p></string>
+    <string name="tbarrows"><p>
+    1)Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.\n
+2)Stand over the bar, and position a Double D row handle around the bar next to the collar. Using your hips and legs, rise to a standing position.\n
+3)Assume a wide stance with your hips back and your chest up. Your arms should be extended. This will be your starting position.\n
+4)Pull the weight to your upper abdomen by retracting the shoulder blades and flexing the elbows. Do not jerk the weight or cheat during the movement.\n
+5)After a brief pause, return to the starting position.\n
+    </p></string>
+
+    <string name="deadlift"><p>
+    1)Walk to the bar. Stand with your mid-foot under the bar. Don’t touch it with your shins yet. Hip-width stance, toes out 15°.\n
+2)Grab the bar. Narrow, about shoulder-width apart. Arms vertical from the front-view, hanging just outside your legs. \n
+3)Bend your knees. Keep going until your shins touch the bar. Don’t move the bar. Keep it over your mid-foot.\n
+4)Lift your chest. Straighten your back. Don’t move the bar. Don’t drop your hips. Don’t squeeze your shoulders-blades.\n
+5)Pull. Take a big breath, hold it and stand up. Keep the bar against your legs. Don’t shrug or lean back at the top.\n
+
+    </p></string>
+    <string name="straightarm"><p>
+1)The straight arm lat pull down is a solid isolation exercise for targeting the upper lats. This exercise is best used as a finishing exercise or as a superset set. You will need either a high pulley cable machine or a lat pull down machine for this exercise.\n
+2)Attach a straight bar to the high pulley and set the weight you want to use on the stack.\n
+3)Position yourself in front of the machine, around 2-3 feet away, facing the machine.\n
+4)Grip the straight bar with an overhand grip with your hands at around shoulder width apart.\n
+5)Keeping your body straight, and your arms straight, take the weight off the stack by moving your arms so they are parallel to the floor. This is the starting position.\n
+6)Keeping your arms straight, rotating at the shoulders only, pull the weight down as far as possible without letting the bar touch your body.\n\n
+Pause, and then slowly lower the weight back to the starting position.\n\n
+Repeat for desired reps.
+    </p></string>
+
+    <string name="triextension"><p>
+    1)Lie on a flat bench while holding two dumbbells directly in front of you. Your arms should be fully extended at a 90-degree angle from your torso and the floor. The palms should be facing in and the elbows should be tucked in. This is the starting position.\n
+2)As you breathe in and you keep the upper arms stationary with the elbows in, slowly lower the weight until the dumbbells are near your ears.\n
+3)At that point, while keeping the elbows in and the upper arms stationary, use the triceps to bring the weight back up to the starting position as you breathe out.\n\n
+Repeat for the recommended amount of repetitions.
+      </p></string>
+     <string name="onearmtri"><p>Sit on seat with back support just below shoulder height. Position dumbbell over head with arm straight up or slightly back.\n
+         Lower dumbbell behind neck or shoulder while maintaining upper arm vertical position throughout exercise. Extend arm until straight. Return and repeat. Continue with opposite arm.
+      </p></string>
+     <string name="closegrippress"><p>
+    1)Lie back on a flat bench. Using a close grip (around shoulder width), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.\n
+2)As you breathe in, come down slowly until you feel the bar on your middle chest. Tip: Make sure that - as opposed to a regular bench press - you keep the elbows close to the torso at all times in order to maximize triceps involvement.\n
+3)After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your triceps muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.\n\n
+Repeat the movement for the prescribed amount of repetitions.\n
+When you are done, place the bar back in the rack.\n
+      </p></string>
+
+     <string name="pushdown"><p>
+1)Attach a straight or angled bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.\n
+2)Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the bar. This is your starting position.\n
+3)Using the triceps, bring the bar down until it touches the front of your thighs and the arms are fully extended perpendicular to the floor. The upper arms should always remain stationary next to your torso and only the forearms should move. Exhale as you perform this movement.\n
+4)After a second hold at the contracted position, bring the bar slowly up to the starting point. Breathe in as you perform this step.\n\n
+Repeat for the recommended amount of repetitions.
+      </p></string>
+
+     <string name="tridip"><p>
+1)To get into the starting position, hold your body at arms length with your arms nearly locked above the bars.\n
+2)Now, inhale and slowly lower yourself downward. Your torso should remain upright and your elbows should stay close to your body. This helps to better focus on tricep involvement. Lower yourself until there is a 90 degree angle formed between the upper arm and forearm.\n
+3)Then, exhale and push your torso back up using your triceps to bring your body back to the starting position.\n\n
+Repeat the movement for the prescribed amount of repetitions.
+      </p></string>
+
+    <string name="barbellcurl"><p>
+    While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.
+    </p></string>
+
+     <string name="Curlbi"><p>
+    The term biceps curl may refer to any of a number of weight training exercises that target the biceps.Although the exercises differ, a common factor of each is a curling motion, where a weight (attached to, or used in conjunction with, an item of equipment listed above) is lifted up until the forearms are vertical with the elbows and upper arm remaining close to the body.
+    </p></string>
+     <string name="hammer"><p>
+1)Stand up with your torso upright and a dumbbell on each hand being held at arms length. The elbows should be close to the torso.\n
+2)The palms of the hands should be facing your torso. This will be your starting position.\n
+3)Now, while holding your upper arm stationary, exhale and curl the weight forward while contracting the biceps. Continue to raise the weight until the biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a brief moment as you squeeze the biceps. Tip: Focus on keeping the elbow stationary and only moving your forearm.\n
+4)After the brief pause, inhale and slowly begin the lower the dumbbells back down to the starting position.\n\n
+Repeat for the recommended amount of repetitions.
+    </p></string>
+     <string name="concentrationcurl"><p>
+Sit on the end of a flat bench with your legs apart and lean slightly forward. Grab a dumbbell in one
+         hand with your palm facing upward (underhand grip) and rest your elbow on the inside of your thigh
+         letting the dumbbell hang. Slowly curl the weight up while keeping your elbow locked in place against your
+         thigh. As you are curling the dumbbell up, twist your wrist to the outside (supinate). Squeeze the muscle at
+         the top of the movement for a one-count and then slowly return to the starting position and repeat for the desired number of repetitions.
+    </p></string>
+     <string name="preachercurls"><p>
+    Sit on preacher bench placing back of arms on pad. Grasp curl bar with shoulder width underhand grip.\n\n
+Execution\n\n
+         Raise bar until forearms are vertical. Lower barbell until arms are fully extended. Repeat.
+    </p></string>
+     <string name="highpully"><p>
+    1)Stand between a couple of high pulleys and grab a handle in each arm. Position your upper arms in a way that they are parallel to the floor with the palms of your hands facing you. This will be your starting position.\n
+2)Curl the handles towards you until they are next to your ears. Make sure that as you do so you flex your biceps and exhale. The upper arms should remain stationary and only the forearms should move. Hold for a second in the contracted position as you squeeze the biceps.\n
+3)Slowly bring back the arms to the starting position.\n
+Repeat for the recommended amount of repetitions.
+    </p></string>
+
+
+     <string name="inclineleg"><p>
+Lie supine on incline board with torso elevated. Grasp feet hooks or sides of board for support.\n
+         Execution\n\n
+         Raise legs by flexing hips and knees until hips are completely flexed. Return until hips and knees are extended. Repeat.
+    </p></string>
+     <string name="inclinebench"><p>
+1)Find an incline bench. This exercise will work best if you have a support bar under which to hook your feet as well.\n
+         2)Sit on the bench with your knees bent. Your feet should be on the uphill side of the bench.\n
+         3)Lie down so that your upper body is facing downhill. Place your hands behind your neck or on the side of your neck.\n
+
+    </p></string>
+    <string name="broom"><p>
+Sit on bench. Position pole on back of shoulders. Place hands or wrists over each side of pole with arms extended.\n
+        Execution\n\n
+        Rotate torso through waist to one side, then to the opposite side. Repeat.
+
+    </p></string>
+    <string name="roman"><p>
+Use a Roman chair apparatus, glute-ham bench, or back extension bench. Secure the front of your feet under the pad and sit
+        on the bench, holding a weight plate at arm’s length. Brace your abs and lean back so that your core is fully engaged.
+        Twist from side to side.
+    </p></string>
+
+     <string name="legextension"><p>
+Sit on apparatus with back against padded back support. Place front of lower legs under padded lever. Position knee articulation at same axis as lever fulcrum.
+         Grasp handles to sides for support.\n
+         Execution\n\n
+         Move lever forward and upward by extending knees until legs are straight. Return lever to original position by bending knees. Repeat.
+
+    </p></string>
+     <string name="standingcalfraise"><p>
+Grasp dumbbell in one hand to side. Position toes and balls of feet on calf block with arches and heels extending off.
+         Place hand on support for balance.\n
+         Execution\n\n
+         Raise heels by extending ankles as high as possible. Lower heels by bending ankles until calves are stretched. Repeat.
+    </p></string>
+
+     <string name="mgain_shoulders_desc"><p>The following exercise targets building all parts of your shoulder muscles.For gaining body mass and building, pick a weight suitable for you and do repetitions of 12-15. After every set, increase the weight and continue this cycle until your limit is reached. Try to push your set limits every time you work out.
+   \n
+        1.Bar bell press.\n
+        2.Arnold press.\n
+        3.Dumb bell lateral raise.\n
+        4.Dumb bell front raise.\n
+        5.Dumb bell front raise.\n
+        6.Bar bell upright raise.\n
+        7.Dumb bell shrugs.\n \n
+         </p></string>
+    <string name="mgain_biandtri"><p>The following exercise targets building all parts of your biceps and triceps muscles.For gaining body mass and building, pick a weight suitable for you and do repetitions of 12-15. After every set, increase the weight and continue this cycle until your limit is reached. Try to push your set limits every time you work out.
+   \n
+        Biceps:\n
+        1.Barbell curls.\n
+        2.Seated dumb bell curls on inclined bench.\n
+        3.Dumb bells hammer curls.\n
+        4.Concentration dumb bell curls\n
+        5.Machine curls.\n
+        6.Cable bicep curls(alternating}.\n \n
+        Triceps:\n
+        1.Overhead bar bell extension(Skull crusher).\n
+        2.Single handed overhead extension.\n
+        3.Bar bell narrow back press.\n
+        4.Double handed overhead extension.\n
+        5.Cable triceps extension.
+    </p></string>
+    <string name="mgain_back"><p>The following exercise targets building all parts of your back muscles.For gaining body mass and building, pick a weight suitable for you and do repetitions of 12-15. After every set, increase the weight and continue this cycle until your limit is reached. Try to push your set limits every time you work out.
+   \n
+        1.Wide grip lat pull down.\n
+        2.Narrow grip lat pull down.\n
+        3.Dumb bell row.\n
+        4.Bar bell row.\n
+        5.Cable row.\n
+        6.Machine row.\n
+        7.Deadlift or Hyperextension.\n
+    </p></string>
+    <string name="mgain_cardio"><p>The following exercise targets a steady heart rate, fat burn and building stamina.\n
+        1.Treadmill (5 minutes walking and 30 minutes running)\n
+        2.Elliptical machine (30 minutes)\n
+        3.Cycling (30 minutes on high resistance).\n
+        Optional- Swimming for and 2 hours.\n
+
+    </p></string>
+    <string name="mgain_Legs"><p>The following exercise targets building all parts of your leg muscles.For gaining body mass and building, pick a weight suitable for you and do repetitions of 12-15. After every set, increase the weight and continue this cycle until your limit is reached. Try to push your set limits every time you work out.
+   \n
+        1.Squats with bar bell (Front o back).\n
+        2.Leg press.\n
+        3.Leg extension.\n
+        4.Leg curls (seated or lying).\n
+        5.Weighted lunges.\n
+        6.Standing calf raise.\n
+        7.Seated calf raise.\n
+        note: Exercises 5 and 6 can be done as a superset without a break in between.
+    </p></string>
+    <string name="mgain_abs"><p>The following exercise targets building all muscles in your abdomen.For gaining body mass and building, pick a weight suitable for you and do repetitions of your choice to a total count of 100. \n
+        1.Roman chair sit-ups.\n
+        2 Crunches (4 sets of 15 reps if done on a weighted machine).\n
+        3.Leg raise.\n
+        4.Side twist. (200 reps).\n
+    </p></string>
+
+
+     <string name="mlean_shoulders_desc"><p>The following exercise targets building all parts of your shoulder muscles. Pick a weight that is two levels below your maximum weight handling potential and do reps of 15-20 till you reach your limit using the same weight.\n
+        1.Bar bell press.\n
+        2.Arnold press.\n
+        3.Dumb bell lateral raise.\n
+        4.Dumb bell front raise.\n
+        5.Dumb bell front raise.\n
+        6.Bar bell upright raise.\n
+        7.Dumb bell shrugs.
+         </p></string>
+    <string name="mlean_biandtri"><p>The following exercise targets building all parts of your biceps and triceps muscles.Pick a weight that is two levels below your maximum weight handling potential and do reps of 15-20 till you reach your limit using the same weight.\n
+        Biceps:\n
+        1.Barbell curls.\n
+        2.Seated dumb bell curls on inclined bench.\n
+        3.Dumb bells hammer curls.\n
+        4.Concentration dumb bell curls\n
+        5.Machine curls.\n
+        6.Cable bicep curls(alternating}.\n \n
+        Triceps:\n
+        1.Overhead bar bell extension(Skull crusher).\n
+        2.Single handed overhead extension.\n
+        3.Bar bell narrow back press.\n
+        4.Double handed overhead extension.\n
+        5.Cable triceps extension.
+    </p></string>
+    <string name="mlean_back"><p>The following exercise targets building all parts of your back muscles.Pick a weight that is two levels below your maximum weight handling potential and do reps of 15-20 till you reach your limit using the same weight.\n
+        1.Wide grip lat pull down.\n
+        2.Narrow grip lat pull down.\n
+        3.Dumb bell row.\n
+        4.Bar bell row.\n
+        5.Cable row.\n
+        6.Machine row.\n
+        7.Deadlift or Hyperextension.\n
+    </p></string>
+    <string name="mlean_cardio"><p>The following exercise targets a steady heart rate, fat burn and building stamina.It is very useful to burn a lot of calories to maintain a non buffed up look.\n
+        1.Treadmill (5 minutes walking and 30 minutes running)\n
+        2.Elliptical machine (30 minutes).\n
+        3.Cycling (30 minutes on high resistance).\n
+        4.Skipping (200 counts total).\n
+        5.Jumps (400 with no weight).\n
+        Optional- Swimming for and 2 hours.
+
+    </p></string>
+    <string name="mlean_Legs"><p>The following exercise targets building all parts of your leg muscles.Pick a weight that is two levels below your maximum weight handling potential and do reps of 15-20 till you reach your limit using the same weight.\n
+        1.Squats with bar bell (Front o back).\n
+        2.Leg press.\n
+        3.Leg extension.\n
+        4.Leg curls (seated or lying).\n
+        5.Weighted lunges.\n
+        6.Standing calf raise.\n
+        7.Seated calf raise.\n
+        note: Exercises 5 and 6 can be done as a superset without a break in between.
+    </p></string>
+    <string name="mlean_abs"><p>The following exercise targets building all muscles in your abdomen. All these workouts need to be done to a target 300 reps.\n
+        1.Roman chair sit-ups.\n
+        2 Crunches (4 sets of 15 reps if done on a weighted machine).\n
+        3.Leg raise.\n
+        4.Side twist. (350 reps).\n
+    </p></string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_exercise__guide">Exercise_Guide</string>
+    <string name="title_activity_nutrition">Nutrition</string>
+    <string name="title_activity_kcal_needed">KCalNeeded</string>
+    <string name="title_activity_ex_building_diet">ExBuildingDiet</string>
+    <string name="title_activity_calculate_bmi">CalculateBmi</string>
+    <string name="title_activity_calculate_percent">CalculatePercent</string>
+    <string name="title_activity_women_workout">WomenWorkout</string>
+    <string name="title_activity_women_description">WomenDescription</string>
+    <string name="title_activity_lean_gain_diet">LeanGainDiet</string>
+    <string name="title_activity_suplements">Suplements</string>
+    <string name="title_activity_chest_description">ChestDescription</string>
+    <string name="title_activity_shoulder_description">ShoulderDescription</string>
+    <string name="title_activity_back_description">BackDescription</string>
+    <string name="title_activity_triceps_description">TricepsDescription</string>
+    <string name="title_activity_biceps_description">BicepsDescription</string>
+    <string name="title_activity_abs_description">AbsDescription</string>
+    <string name="title_activity_leg_description">LegDescription</string>
+    <string name="title_activity_men_gain">MenGain</string>
+    <string name="title_activity_men_gain_description">MenGainDescription</string>
+    <string name="title_activity_men_lean">MenLean</string>
+    <string name="title_activity_men_leandescription">MenLeandescription</string>
+    <string name="title_activity_menleandescription">Menleandescription</string>
+</resources>
